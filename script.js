@@ -13,21 +13,21 @@ const testimonials = [
     },
     {
         name: 'June Cha',
-        position: 'Softwere Engr',
+        position: 'Softwere Engineer',
         photo: 'https://randomuser.me/api/portraits/women/44.jpg',
-        text: 'WOOOW my nails are shining after this, not only did they do my nails they did my hair VEEERRRYYY WELLLL WOOOOO!!!! '
+        text: 'WOOOW my nails are shining after this, not only did they do my nails they did my hair VEEERRRYYY WELLLL WOOOOO!!!! OBBA GANGAM STYLE!!'
     },
     {
         name: 'Iida Niskanen',
         position: 'Data Entry',
         photo: 'https://randomuser.me/api/portraits/women/68.jpg',
-        text: 'The manicurist did not cure my Manicure!?!?! What was this all about then!! Very bad place to do your Manicure '
+        text: 'The manicurist did not cure my Manicure!?!?! What was this all about then!! Very bad place to do your Manicure. I had to cure it somewhere else '
     },
     {
-        name: 'Jhonathan Nunfiez',
+        name: 'Lana Nunfiez',
         position: 'Graphic Designer',
         photo: 'https://randomuser.me/api/portraits/women/43.jpg',
-        text: 'I asked for a bowl cut, but they forgot to use a bowl!!! THis is inadequate from such proffesionals. '
+        text: 'I asked for a bowl cut, but they forgot to use a bowl!!! THis is inadequate from such proffesionals. Still make sure you hit up Lucys It still great!'
     },
     {
         name: 'Sasha Ho',
